@@ -2,7 +2,7 @@
 - 💻 A student of computer science at Sun Yat-sen University
 - 🌱 Currently learning distributed system, Redis, algorithms...
 - ⚡ C++, Go, Python...
-- 💬 I'm going to share my study notes here
+- 💬 I'm going to share my study notes and some projects here
 
 <!--
 **imfinehahah/imfinehahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
