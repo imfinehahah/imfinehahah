@@ -1,6 +1,6 @@
 ### Hi there, I'm GuoHao Du 👋
 - 💻 A student of computer science at Sun Yat-sen University
-- 🌱 Currently learning distributed system
+- 🌱 Currently learning distributed system, Redis, algorithms...
 - ⚡ C++, Go, Python...
 - 💬 I'm going to share my study notes here
 
